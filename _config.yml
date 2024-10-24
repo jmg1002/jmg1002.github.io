@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Mingyu Jang and I'm a Ph.D. candidate at Yonsei University, supervised by Prof. Sanghoon Lee. My research area focuses on the generation of 3D graphic multimedia content using AI. Specifically, I have participated in the design and development of a 4D capture system in my lab, and I have a strong interest in methods for generating AI content from the acquired data.
 
 content:
-  - title: Publication
+  - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
       **Journals**        †equal contribution 
@@ -59,6 +59,15 @@ content:
       - **Mingyu Jang**†, Hyunse Yoon†, Seongmin Lee, Jiwoo Kang* and Sanghoon Lee*, "A Comparison and Evaluation of Stereo Matching on Active Stereo Images", Sensors, vol. 22, no. 9, pp. 3332-3366, Apr. 2022.
       - Jiwoo Kang, Seongmin Lee, **Mingyu Jang**, and Sanghoon Lee, "Gradient Flow Evolution for 3D Fusion from a Single Depth Sensor," IEEE Transactions on Circuits and Systems for Video Technology, vol.32, no.4, pp. 2211-2225, Apr. 2022.
       - Hyunse Yoon†, **Mingyu Jang**†, Jungwoo Huh, Jiwoo Kang, and Sanghoon Lee, "Multiple Sensor Synchronizationwith RealSense RGB-D Camera," Sensors, vol. 21, no. 18, pp. 6276-6295, Sep. 2021.
+
+      **Conferences**        †equal contribution 
+      - **Mingyu Jang**†, Kyungjune Lee†, Seongmin Lee, Hoseok Tong, Juwan Chung, Yusung Ro, and Sanghoon Lee, "InViTe: Individual Virtual Transfer for Personalized 3D Face Generation System" International Joint Conference on Artificial Intelligence (IJCAI 2024), Jeju, Korea, 3-8, Aug, 2024.
+      - Kyungjune Lee, Jeonghaeng Lee, Hyucksang Lee, **Mingyu Jang**, Seongmin Lee, and Sanghoon Lee, "FaceClone: Interactive Facial Shape and Motion Cloning System using Multi-View images" IEEE International Conference on Multimedia and Expo Workshops  (ICMEW 2023), Brisbane, Australia, 10-14, July 2023.
+      - Kyungjune Lee, **Mingyu Jang**, Taewan Kim, and Sanghoon Lee, "Smooth Panoramic Walkthrough for Adjacent Panoramic Viewpoints with Dense Spherical Matching Points" Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2022), Chiang Mai, Thailand, 7-10, Nov. 2022.
+      - Hoseok Tong, Jungwoo Huh, Seonghwa Choi, **Mingyu Jang**, Yeseung Park, and Sanghoon Lee, "User responsive Natural language processing Framework through Speech recognition" The 18th International Conference on Multimedia Information Technology and Applications (MITA 2022), Jeju, Korea, 5-7, July. 2022.
+      - **Mingyu Jang**, Seongmin Lee, Jiwoo Kang,and Sanghoon Lee, "Active Stereo Matching Benchmark for 3D Reconstruction using Multi-view Depths", IEEE International Conference on Signal and Image Processing Applications (ICSIPA 2021), Virtual Conference, Sep. 2021.
+      - Jiwoo Kang, Seongmin Lee, **Mingyu Jang**, Hyunse Yoon and Sanghoon Lee, "WarpingFusion: Accurate Multi-view TSDF Fusion with Local Perspective Warp", International Conference on Image Processing (ICIP 2021), Anchorage, Alaska, USA, Sep, 2021.
+      - Yeseung Park, **Mingyu Jang**, Jungwoo Huh, Kyoungoh Lee and Sanghoon Lee "Data reduction using Cluster Sampling", APSIPA Annual Summit and Conference (APSIPA ASC 2020), Auckland, New Zealand, Dec, 2020.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
