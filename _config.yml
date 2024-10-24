@@ -55,14 +55,11 @@ content:
   - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Journals † equal contribution 
+      - **Mingyu Jang**, Seongmin Lee, Jiwoo Kang†, and Sanghoon Lee†, "Technical Consideration Towards Robust 3D Reconstruction with Multi-view Active Stereo Sensors", Sensors, vol. 22, no. 11, pp. 4142-4157, May. 2022.
+      - **Mingyu Jang**†, Hyunse Yoon†, Seongmin Lee, Jiwoo Kang* and Sanghoon Lee*, "A Comparison and Evaluation of Stereo Matching on Active Stereo Images", Sensors, vol. 22, no. 9, pp. 3332-3366, Apr. 2022.
+      - Jiwoo Kang, Seongmin Lee, **Mingyu Jang**, and Sanghoon Lee, "Gradient Flow Evolution for 3D Fusion from a Single Depth Sensor," IEEE Transactions on Circuits and Systems for Video Technology, vol.32, no.4, pp. 2211-2225, Apr. 2022.
+      - Hyunse Yoon†, **Mingyu Jang**†, Jungwoo Huh, Jiwoo Kang, and Sanghoon Lee, "Multiple Sensor Synchronizationwith RealSense RGB-D Camera," Sensors, vol. 21, no. 18, pp. 6276-6295, Sep. 2021.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
