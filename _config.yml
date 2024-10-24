@@ -49,13 +49,12 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Mingyu Jang and I'm a Ph.D. candidate at Yonsei University, supervised by Prof. Sanghoon Lee. My research area focuses on the generation of 3D graphic multimedia content using AI. Specifically, I have participated in the design and development of a 4D capture system in my lab, and I have a strong interest in methods for generating AI content from the acquired data.
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Journals † equal contribution 
+      **Journals**        †equal contribution 
       - **Mingyu Jang**, Seongmin Lee, Jiwoo Kang†, and Sanghoon Lee†, "Technical Consideration Towards Robust 3D Reconstruction with Multi-view Active Stereo Sensors", Sensors, vol. 22, no. 11, pp. 4142-4157, May. 2022.
       - **Mingyu Jang**†, Hyunse Yoon†, Seongmin Lee, Jiwoo Kang* and Sanghoon Lee*, "A Comparison and Evaluation of Stereo Matching on Active Stereo Images", Sensors, vol. 22, no. 9, pp. 3332-3366, Apr. 2022.
       - Jiwoo Kang, Seongmin Lee, **Mingyu Jang**, and Sanghoon Lee, "Gradient Flow Evolution for 3D Fusion from a Single Depth Sensor," IEEE Transactions on Circuits and Systems for Video Technology, vol.32, no.4, pp. 2211-2225, Apr. 2022.
