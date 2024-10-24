@@ -69,45 +69,32 @@ content:
       - Jiwoo Kang, Seongmin Lee, **Mingyu Jang**, Hyunse Yoon and Sanghoon Lee, "WarpingFusion: Accurate Multi-view TSDF Fusion with Local Perspective Warp", International Conference on Image Processing (ICIP 2021), Anchorage, Alaska, USA, Sep, 2021.
       - Yeseung Park, **Mingyu Jang**, Jungwoo Huh, Kyoungoh Lee and Sanghoon Lee "Data reduction using Cluster Sampling", APSIPA Annual Summit and Conference (APSIPA ASC 2020), Auckland, New Zealand, Dec, 2020.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+  - title: Project Experience # Title for the section
+    layout: text # Type of content section (list/text)
+    content: | # this will include new lines to allow paragraphs
+      - 생성형 AI 콘텐츠 저작권 침해 판별 기술 개발 및 글로벌형 전문인력 양성 | 2024.04 ~ 진행중 | 한국콘텐츠진흥원
+      - 시각적 인지연구 기반 시공간 도메인 확장 최적화 기술 연구 | 2020.03 ~ 진행중 | 한국연구재단
+      - SIAT형 CCTV 클라우드 플랫폼 기술 개발 | 2020.01 ~ 2020.12 | 정보통신기획평가원
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+  - title: Education
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      **Yonsei University - Seoul, Korea**
+      - M.S. and Ph.D. Candidate in Electrical and Electronic Engineering.
+      - Supervised by Prof. Sanghoon Lee.
+      - Mar. 2019 ~ Present
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      **Gangneung-Wonju National University - Seoul, Korea**
+      - B.S. in Electronic Engineering
+      - Mar. 2013 ~ Feb. 2018
+
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Programming Languages: Python, C/C++, MATLAB
+      - Tools and Frameworks: PyTorch
+      - Vision Camera Library: Matrox Imaging Library, Pylon SDK
+
 
 # Footer
 footer_show_references: true
