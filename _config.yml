@@ -55,13 +55,17 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **Journals**        †equal contribution 
+      **Journals**
+      
+      †equal contribution 
       - **Mingyu Jang**, Seongmin Lee, Jiwoo Kang†, and Sanghoon Lee†, "Technical Consideration Towards Robust 3D Reconstruction with Multi-view Active Stereo Sensors", Sensors, vol. 22, no. 11, pp. 4142-4157, May. 2022.
       - **Mingyu Jang**†, Hyunse Yoon†, Seongmin Lee, Jiwoo Kang* and Sanghoon Lee*, "A Comparison and Evaluation of Stereo Matching on Active Stereo Images", Sensors, vol. 22, no. 9, pp. 3332-3366, Apr. 2022.
       - Jiwoo Kang, Seongmin Lee, **Mingyu Jang**, and Sanghoon Lee, "Gradient Flow Evolution for 3D Fusion from a Single Depth Sensor," IEEE Transactions on Circuits and Systems for Video Technology, vol.32, no.4, pp. 2211-2225, Apr. 2022.
       - Hyunse Yoon†, **Mingyu Jang**†, Jungwoo Huh, Jiwoo Kang, and Sanghoon Lee, "Multiple Sensor Synchronizationwith RealSense RGB-D Camera," Sensors, vol. 21, no. 18, pp. 6276-6295, Sep. 2021.
 
-      **Conferences**        †equal contribution 
+      **Conferences**
+      
+      †equal contribution 
       - **Mingyu Jang**†, Kyungjune Lee†, Seongmin Lee, Hoseok Tong, Juwan Chung, Yusung Ro, and Sanghoon Lee, "InViTe: Individual Virtual Transfer for Personalized 3D Face Generation System" International Joint Conference on Artificial Intelligence (IJCAI 2024), Jeju, Korea, 3-8, Aug, 2024.
       - Kyungjune Lee, Jeonghaeng Lee, Hyucksang Lee, **Mingyu Jang**, Seongmin Lee, and Sanghoon Lee, "FaceClone: Interactive Facial Shape and Motion Cloning System using Multi-View images" IEEE International Conference on Multimedia and Expo Workshops  (ICMEW 2023), Brisbane, Australia, 10-14, July 2023.
       - Kyungjune Lee, **Mingyu Jang**, Taewan Kim, and Sanghoon Lee, "Smooth Panoramic Walkthrough for Adjacent Panoramic Viewpoints with Dense Spherical Matching Points" Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2022), Chiang Mai, Thailand, 7-10, Nov. 2022.
