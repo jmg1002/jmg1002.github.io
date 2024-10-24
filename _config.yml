@@ -49,7 +49,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Mingyu Jang and I'm a Ph.D. candidate at Yonsei University, supervised by Prof. Sanghoon Lee. My research area focuses on the generation of 3D graphic multimedia content using AI. Specifically, I have participated in the design and development of a 4D capture system in my lab, and I have a strong interest in methods for generating AI content from the acquired data.
-
+  **Research Interests**: 
 content:
   - title: Publications
     layout: text
@@ -72,9 +72,9 @@ content:
   - title: Project Experience # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - 생성형 AI 콘텐츠 저작권 침해 판별 기술 개발 및 글로벌형 전문인력 양성 | 2024.04 ~ 진행중 | 한국콘텐츠진흥원
-      - 시각적 인지연구 기반 시공간 도메인 확장 최적화 기술 연구 | 2020.03 ~ 진행중 | 한국연구재단
-      - SIAT형 CCTV 클라우드 플랫폼 기술 개발 | 2020.01 ~ 2020.12 | 정보통신기획평가원
+      - Development of a technology to determine copyright infringement of generative AI content and training of global experts, 2024.04 ~ Present, Korea Creative Content Agency
+      - Research on optimization technology for spatiotemporal domain expansion based on visual cognition research, 2020.03 ~ Present, National Research Foundation of Korea
+      - Development of SIAT-type CCTV cloud platform technology, 2020.01 ~ 2020.12, Institute of Information and Communications Technology Planning and Evaluation 
 
   - title: Education
     layout: text
