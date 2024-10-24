@@ -92,9 +92,9 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Programming Languages: Python, C/C++, MATLAB
-      - Tools and Frameworks: PyTorch
-      - Vision Camera Library: Matrox Imaging Library, Pylon SDK
+      - **Programming Languages**: Python, C/C++, MATLAB
+      - **Tools and Frameworks**: PyTorch
+      - **Vision Camera Library**: Matrox Imaging Library, Pylon SDK
 
 
 # Footer
