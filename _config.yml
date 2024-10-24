@@ -1,12 +1,12 @@
 # Site
-repository: sproogen/resume-theme
+repository: jmg1002/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
+name: Mingyu Jang
 title: Senior Network System Administrator
 email: brett.h@email.co.uk
 website: www.github.com/sproogen/resume-theme
